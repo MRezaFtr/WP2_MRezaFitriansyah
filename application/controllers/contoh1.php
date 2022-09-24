@@ -4,6 +4,6 @@
     public function index()
   {
     echo "<h1>Perkenalkan</h1>";
-    echo "Nama saya M Reza Fitriansyah, Saya tinggal di daerah Ciputat, olah raga yang saya sukai adalah Bulutangkis";
+    echo "Nama saya M Reza Fitriansyah, Saya tinggal di Kab. kayong Utara, olahraga yang saya sukai adalah Bulutangkis";
   }
 }
