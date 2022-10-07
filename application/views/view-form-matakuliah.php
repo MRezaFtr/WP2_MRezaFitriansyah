@@ -47,7 +47,7 @@ method="post">
                 </tr>
                 <tr>
                     <td colspan="3" align="center">
-                        <input type="submit"    value="submit">
+                        <input type="submit"  value="submit">
                     </td>
                 </tr>
             </table>       
